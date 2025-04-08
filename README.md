@@ -1,4 +1,5 @@
 # BHInfTurbHTens
+Under construction (!): Need to split the generation of Fig10-11-12-13 which currently are in the same file and Github says is to large. The same applies to Fig16.ipynb that needs to be thiner.
 
 Code and data from the article "Black hole information turbulence and the Hubble tension" Copyright (C) 2025 Juan Luis Cabrera Fernández
 
